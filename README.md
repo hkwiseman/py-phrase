@@ -11,7 +11,8 @@ Disclaimer: The length of the passphrases reccomended is solely based off of my 
 
 Warning: No history is kept of the passphrases generated. Please write them down or save them if you are going to use them so you have a way of recovering the phrase if forgotten. 
 
-To run the program just download the repository and run: python3 py-phrase.py
+To run the program just download the repository and run: python3 py-phrase.py.
+
 After that the program will prompt for the values needed to create passphrases.
 
 If the word list file is renamed then that name will need to be updated in the program to allow for it to read in that data.
