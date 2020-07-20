@@ -1,6 +1,15 @@
+__author__ = "H. Kyle Wiseman"
+__copyright__ = "Copyright 2020"
+__credits__ = ["H. Kyle Wiseman"]
+__license__ = "GPLv3"
+__version__ = "0.1.0"
+__maintainer__ = "H. Kyle Wiseman"
+__email__ = "kwiseman@highpoint.edu"
+
 import sys
 import secrets
 
+# Generate random number to build number corresponding to word list
 def rollDice():
     rollNum = ""
     for i in range(5):
