@@ -5,7 +5,6 @@ __license__ = "GPLv3"
 __version__ = "0.1.0"
 __maintainer__ = "H. Kyle Wiseman"
 __email__ = "kwiseman@highpoint.edu"
-
 import sys
 import secrets
 
