@@ -18,5 +18,3 @@ After that the program will prompt for the values needed to create passphrases.
 If the word list file is renamed then that name will need to be updated in the program to allow for it to read in that data.
 
 The repository will be updated in the future to include different word lists and an option in the program to generate larger values that can relate to more possible words or symbols to increase randomness.
-
-Current development is focused on building a flask app around the existing logic.
